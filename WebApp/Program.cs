@@ -30,12 +30,15 @@ app.UseCors();
 
 app.UseHttpsRedirection();
 
-app.UseStaticFiles(new StaticFileOptions
+if (Directory.Exists(Path.Combine(builder.Environment.ContentRootPath, "./build")))
 {
-    FileProvider = new PhysicalFileProvider(
-    Path.Combine(builder.Environment.ContentRootPath, "./build")),
-    RequestPath = ""
-});
+    app.UseStaticFiles(new StaticFileOptions
+    {
+        FileProvider = new PhysicalFileProvider(
+        Path.Combine(builder.Environment.ContentRootPath, "./build")),
+        RequestPath = ""
+    });
+}
 
 app.MapControllers();
 

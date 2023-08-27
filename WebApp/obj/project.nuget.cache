@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5GpfOY6Ia9NifjDlLrxA5g7ZpvGzGxLawSzd/WMQKtk2S29MTpCbh7A3MZDYIEX7MPrSJvgVMe9RT2kMuudGSg==",
+  "dgSpecHash": "CF0+pTzl2OGzV1NBiveQA92BfyzyL/Ycli/ZXtjMKPOH9Z6qdhvUVFStIKAS0Kln/VvNRyycmP++X3QmlCkjrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tonip\\harjoittelu\\talenom\\backend\\WebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\tonip\\työnhaku\\talenom\\appbackend.git\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tonip\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\tonip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",

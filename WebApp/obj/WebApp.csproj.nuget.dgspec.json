@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonip\\harjoittelu\\talenom\\backend\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\tonip\\työnhaku\\talenom\\appbackend.git\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonip\\harjoittelu\\talenom\\backend\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\tonip\\työnhaku\\talenom\\appbackend.git\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonip\\harjoittelu\\talenom\\backend\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\tonip\\työnhaku\\talenom\\appbackend.git\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\tonip\\harjoittelu\\talenom\\backend\\WebApp\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\tonip\\työnhaku\\talenom\\appbackend.git\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\tonip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonip\\harjoittelu\\talenom\\backend\\WebApp\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\tonip\\työnhaku\\talenom\\appbackend.git\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonip\\AppData\\Roaming\\NuGet\\NuGet.Config",
